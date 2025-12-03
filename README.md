@@ -4,4 +4,4 @@ Description: Analyzed 5,000+ support calls to optimize customer service efficien
 
 Tech Stack: Power BI, DAX, KPI Monitoring.
 
-![Uploading 3.jpeg…]()
+![3](https://github.com/user-attachments/assets/d8af5e94-63f4-4b67-a9da-6a0be12bb157)
